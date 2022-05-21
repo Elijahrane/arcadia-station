@@ -74,6 +74,11 @@
   - type: Tag
     tags:
     - DoorBumpOpener
+  - type: PenRenamable
+  - type: UserInterface
+    interfaces:
+    - key: enum.PenRenameUiKey.Key
+      type: PenRenameBoundUserInterface
   - type: Destructible
     thresholds:
     - trigger:

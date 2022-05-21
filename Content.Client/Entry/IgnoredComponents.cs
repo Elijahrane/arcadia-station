@@ -33,6 +33,7 @@ namespace Content.Client.Entry
             "EmitSoundOnUIOpen",
             "NameIdentifier",
             "Farter",
+            "PenRenamable",
             "HeatResistance",
             "EntityStorage",
             "Collapsible",
